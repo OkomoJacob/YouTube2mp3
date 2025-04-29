@@ -1,7 +1,9 @@
-# YouTube to MP3 Converter with Thumbnail Embedding
-Have you ever found a very awesome YouTube video, or for better a wonderfull video mix that you'll want to downlaod (If legal) and wondered how you could download it?
+# YouTube to MP3 Converter (Now with Thumbnail Embedding)
+Have you ever found a very awesome YouTube music video, or for better, a wonderfull video mix that you'll want to downlaod (If legal) and wondered how you could download it to play it later offline?
 
-That's was the Genesis of this project. You only need internet connetivity then run it, You'll be promted to paste the YouTube link then it automatically downlaods it.
+- That was the Genesis of this hobby project. You only need internet connetivity then run it locally in your Terminal.
+- You'll be promted to paste the YouTube link then it automatically downlaods it.
+- This is a Work In Progress and an online Web version of this will be available where your just paste your YouTube link and click Convert/Download effortlessly.
 
 A Python script that converts YouTube (Of unlimited length) videos to MP3 audio files and embeds the video's thumbnail as album art.
 
@@ -10,12 +12,12 @@ A Python script that converts YouTube (Of unlimited length) videos to MP3 audio 
 Clone this repository:
 
 ```bash
-$ git clone https://github.com/okomojacob/youtube-to-mp3.git
+$ git clone https://github.com/okomojacob/YouTube2mp3.git
 ```
 
 Navigate to the project directory:
 ```bash
-$ cd youtube-to-mp3
+$ cd YouTube2mp3
 ```
 
 Create and activate virtual environment (optional but recommended):
