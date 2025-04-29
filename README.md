@@ -42,9 +42,9 @@ pip install -r requirements.txt
 
 Note: Ensure you have ffmpeg installed on your system, as it’s required for audio conversion. Install it via:
 
-macOS: `brew install ffmpeg`
-Linux: `sudo apt install ffmpeg`
-Windows: `Use Chocolatey (choco install ffmpeg) or download from FFmpeg.`
+- [x] macOS: `brew install ffmpeg`
+- [x] Linux: `sudo apt install ffmpeg`
+- [x] Windows: `Use Chocolatey (choco install ffmpeg) or download from FFmpeg.`
 
 ## Usage
 
