@@ -63,8 +63,8 @@ The script will download the audio, convert it to MP3, embed the thumbnail as al
 - [x] ffmpeg (for audio conversion)
 
 ## 👨🏼‍⚖ Legal Note ⚖️
-[ x ] Please ensure you have the necessary rights to download and convert YouTube videos. 
-[ x ] This script is for educational purposes only and should be used in compliance with [YouTube’s Terms of Service](https://www.youtube.com/t/terms) and applicable copyright laws.
+- [x] Please ensure you have the necessary rights to download and convert YouTube videos. 
+- [x] This script is for educational purposes only and should be used in compliance with [YouTube’s Terms of Service](https://www.youtube.com/t/terms) and applicable copyright laws.
 
 ## License
 This project is licensed under the MIT License.
