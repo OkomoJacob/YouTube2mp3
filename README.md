@@ -54,6 +54,12 @@ Run the script from your terminal/ command line:
 $ python youtube_to_mp3.py
 ```
 
+Or pass the URL directly as an argument:
+
+```bash
+$ python youtube_to_mp3.py "https://www.youtube.com/watch?v=RD7GkOSs2ww"
+```
+
 Enter the YouTube URL when prompted (e.g., https://www.youtube.com/watch?v=RD7GkOSs2ww&list=PLHXrlST7W5bSlzQq8hSQ9FEm5K9KH6KeI).
 The script will download the audio, convert it to MP3, embed the thumbnail as album art, and save it in the `output` directory.
 
